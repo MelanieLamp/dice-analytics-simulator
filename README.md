@@ -49,7 +49,7 @@ The project adheres to clean Object-Oriented Programming (OOP) principles:
 * **Collections Framework:** Organizes and aggregates simulation datasets efficiently.
 * **Threading Framework:** Offloads simulation calculations to background tasks, keeping the Windows Forms UI smooth and responsive.
 <br>
-
+   
 ## ⚙️ Getting Started
 ### Prerequisites
 * [.NET SDK](https://microsoft.com) (Version 6.0 or higher recommended)
@@ -72,4 +72,4 @@ The project adheres to clean Object-Oriented Programming (OOP) principles:
    ```
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
-<br>
+<br><br>
